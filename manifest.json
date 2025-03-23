@@ -1,6 +1,7 @@
 {
-    "name": "Gestion École",
-    "short_name": "École",
+    "name": "Mon Application PWA",
+    "short_name": "PWA",
+    "description": "Une application web progressive",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
